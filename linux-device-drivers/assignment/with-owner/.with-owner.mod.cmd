@@ -1,0 +1,1 @@
+cmd_/home/chakravarthy/KM/KM_GITLAB/linux-device/assignment/with-owner/with-owner.mod := { echo  /home/chakravarthy/KM/KM_GITLAB/linux-device/assignment/with-owner/with-owner.o;  echo; } > /home/chakravarthy/KM/KM_GITLAB/linux-device/assignment/with-owner/with-owner.mod

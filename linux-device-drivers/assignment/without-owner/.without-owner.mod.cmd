@@ -1,0 +1,1 @@
+cmd_/home/chakravarthy/KM/KM_GITLAB/linux-device/assignment/without-owner/without-owner.mod := { echo  /home/chakravarthy/KM/KM_GITLAB/linux-device/assignment/without-owner/without-owner.o;  echo; } > /home/chakravarthy/KM/KM_GITLAB/linux-device/assignment/without-owner/without-owner.mod
